@@ -24,6 +24,7 @@ accordingly
   <url>http://YourGitHubUser.github.io/PortlandStateJavaSummer2020</url>
 
   <modules>
+    <module>RomanNumerals</module>
   </modules>
 
   <inceptionYear>2020</inceptionYear>
