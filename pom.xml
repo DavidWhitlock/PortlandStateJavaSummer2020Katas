@@ -14,14 +14,14 @@ accordingly
     <groupId>edu.pdx.cs410J</groupId>
     <version>Summer2020</version>
   </parent>
-  <groupId>edu.pdx.cs410J.YourUserId</groupId>
-  <artifactId>PortlandStateJavaSummer2020</artifactId>
+  <groupId>edu.pdx.cs410J.whitlock</groupId>
+  <artifactId>PortlandStateJavaSummer2020Katas</artifactId>
   <version>Summer2020</version>
 
   <packaging>pom</packaging>
   <name>PSUJavaSummer2020</name>
   <description>Source code written in the Winter 2020 offering of Advanced Programming with Java</description>
-  <url>http://YourGitHubUser.github.io/PortlandStateJavaSummer2020</url>
+  <url>http://DavidWhitlock.github.io/PortlandStateJavaSummer2020Katas</url>
 
   <modules>
     <module>RomanNumerals</module>
@@ -34,7 +34,7 @@ accordingly
   </organization>
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/YourGitHubUser/PortlandStateJavaSummer2020/issues</url>
+    <url>https://github.com/DavidWhitlock/PortlandStateJavaSummer2020Katas/issues</url>
   </issueManagement>
   <licenses>
     <license>
@@ -58,7 +58,7 @@ accordingly
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git@github.com:YourGitHubUser/PortlandStateJavaSummer2020.git</connection>
+    <connection>scm:git:git@github.com:DavidWhitlock/PortlandStateJavaSummer2020Katas.git</connection>
   </scm>
   <repositories>
     <repository>
@@ -71,7 +71,7 @@ accordingly
     <site>
       <id>gh-pages</id>
       <name>GitHub Pages</name>
-      <url>github:http://YourGitHubUser.github.io/PortlandStateJavaSummer2020/</url>
+      <url>github:http://DavidWhitlock.github.io/PortlandStateJavaSummer2020Katas/</url>
     </site>
   </distributionManagement>
 
