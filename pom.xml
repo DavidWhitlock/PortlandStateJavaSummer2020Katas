@@ -25,6 +25,7 @@ accordingly
 
   <modules>
     <module>RomanNumerals</module>
+    <module>diamond</module>
   </modules>
 
   <inceptionYear>2020</inceptionYear>
